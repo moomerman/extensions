@@ -104,7 +104,7 @@
 
 [submodule "extensions/gdscript"]
 	path = extensions/gdscript
-	url = https://github.com/grndctrl/zed-gdscript.git
+	url = https://github.com/moomerman/zed-gdscript.git
 
 [submodule "extensions/gemini"]
 	path = extensions/gemini
